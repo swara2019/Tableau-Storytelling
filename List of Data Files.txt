@@ -1,0 +1,11 @@
+Files Included in the Project:
+******************************
+
+1.Original Downloaded Dataset from the site : 779212040_122018_1623_airline_delay_causes.csv
+2.datawrangling.ipynb : Assessing and wrangling the data
+3.airline_delay_data_final.xlsx : The final dataset which has been used for visualization
+4.FlightsDelayProject-Version1 : Tableau Packaged workbook for initial draft
+5.FlightsDelayProject-Version2 : Tableau Packaged workbook for second draft after getting feedback
+6.Data Story Telling Project with Tableau Report : PDF file with the details of the design, feedbacks.
+7.Data Story Telling Project with Tableau Report-Version2 : Updated PDF file with the findings added
+8.FlightsDelayProject-Version2 : Tableau Packaged workbook for the final draft after getting feedback from Udacity reviwer
